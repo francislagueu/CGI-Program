@@ -1,0 +1,19 @@
+
+html{
+	display:table;
+	width:100%;
+	margin-top:0px;
+}
+body{
+	display:table-cell;
+	vertical-align:middle;
+	background-color:lightblue;
+}
+h1{
+	text-align:left;
+	color:white;
+}
+
+.container-fluid{
+	background-color:orange;
+}
